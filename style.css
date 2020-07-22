@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(53, 53, 53);
+}
+body{
+    color: whitesmoke;
+    text-emphasis: center;
+}
+header{
+    font-family: Tangerine;
+    font-size: 72px;
+    text-align: center;
+
+}
+h3{
+    font-family: Unica one;
+    font-size: 26px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ManyWatches{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+    
+}
+#ClassicWatch{
+    
+    margin: 10px;
+    float: left;
+}
+.text{
+    background-color: #1A1818;
+    border-radius: 13px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FDEFA6;
+    float: left;
+    vertical-align: middle;
+}
+.all_watches_container img{
+    float: left;
+    margin: 10px;
+    max-height: 200px;
+    width: 200px;
+}
+#mechanicalWatch{
+    width: 100px;
+    margin: 10px;
+    float: left;
+}
+#pocketWatch{
+    width: 100px;
+    margin: 10px;
+    float: left;
+}
